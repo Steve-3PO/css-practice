@@ -7,14 +7,11 @@ h2 {
     text-decoration: underline;
 }
 
-.padding {
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
 div {
     border: 2px solid black;
     margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .green-text {
