@@ -25,6 +25,20 @@ div {
     color: blue;
 }
 
+.white-text {
+    color: white;
+}
+
 .centered-text {
     text-align: center;
+}
+
+.dotted {
+    border-style: dotted;
+}
+
+.fill {
+    background-color: green;
+    margin-left: 10px;
+    margin-right: 10px;
 }
