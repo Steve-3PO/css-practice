@@ -21,6 +21,10 @@ div {
     color: green;
 }
 
+.blue-text {
+    color: blue;
+}
+
 .centered-text {
     text-align: center;
 }
